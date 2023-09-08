@@ -39,7 +39,6 @@ When i create a new rule, I'll need to test the rule to confirm whether or not i
 <p align="center">
 Launch and Start : <br/>
 <img src="https://imgur.com/dr3X6nt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/zQ2QAqc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Examine a custom rule in Suricata<br>  
